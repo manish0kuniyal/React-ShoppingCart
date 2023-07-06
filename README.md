@@ -77,8 +77,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 3813bdd (commit1)
-// Back To Top 
-$('a.top').click(function(){ $('html, body').animate({scrollTop : 0},800); return false; });  
-//Create an anchor tag 
-<a class="top" href="#">Back to top</a>
+
+
+[🔼 Back to top](#HEAD)
